@@ -1,4 +1,4 @@
-# Raspberry Pi Quick Start Guide
+# Raspberry Pi Hardware Setup
 
 Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in.
 
@@ -19,7 +19,7 @@ To get started with Raspberry Pi, you also need an operating system. If you have
 
 There are several different types of monitor that you can use with the Raspberry Pi:
 
-![monitor](images-monitor.png)
+![monitor](images/monitor.png)
 
 ### HDMI
 Most modern television sets and monitors have an HDMI port, and are the easiest to get working with the Raspberry Pi. You can use an HDMI cable to connect the Raspberry Pi directly to the television or monitor.
@@ -54,7 +54,7 @@ There are any devices that are capable of providing power over USB. Many modern 
 
 ## Keyboard and Mouse
 
-### Wired
+### Wired Keyboard and Mouse
 Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional set up, simply plug them into the Raspberry Pi and they should be recognised when it starts up.
 
 ![keyboard-mouse](images/keyboard-mouse.png)
@@ -69,7 +69,6 @@ BlueTooth Keyboards and Mice can work with the Raspberry Pi, but you success rat
 
 The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8Gb (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy are official SD cards, if you are unsure, from here and here.
 
-
 ## Plugging in your Raspberry Pi
 
 1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
@@ -81,7 +80,5 @@ The latest version of Raspbian (the default operating system recommended for the
 
   ![Plugging in](images/plug-in.gif)
 
-1. If this is the first time your Raspberry Pi and SD card have been used, then you will have to select an operating system and configure it.
 
-<iframe src="https://player.vimeo.com/video/91631396" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
