@@ -11,7 +11,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 - A micro SD card
 - A Raspberry Pi
 
-  ![](images/all-the-things.png)
+![](images/all-the-things.png)
 
 To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a preinstalled SD card, then details on how to install an operating to an SD card, follow the [software setup guide](). 
 
@@ -68,6 +68,8 @@ BlueTooth Keyboards and Mice can work with the Raspberry Pi, but you success rat
 ## SD Cards
 
 The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8Gb (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy are official SD cards, if you are unsure, from here and here.
+
+![noobs-card](images/noobs-card.png)
 
 ## Plugging in your Raspberry Pi
 
