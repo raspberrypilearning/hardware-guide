@@ -19,10 +19,12 @@ To get started with Raspberry Pi, you also need an operating system. If you have
 
 There are several different types of monitor that you can use with the Raspberry Pi:
 
+![monitor](images-monitor.png)
+
 ### HDMI
 Most modern television sets and monitors have an HDMI port, and are the easiest to get working with the Raspberry Pi. You can use an HDMI cable to connect the Raspberry Pi directly to the television or monitor.
 
-![hdmi](images/HDMI-Connector.jpg)
+![hdmi](images/hdmi-cable.png)
 
 ### DVI
 Some older monitors have a DVI port. These work well with the Raspberry Pi, although you will need an HDMI to DVI adaptor to attach to an HDMI cable, or a one-piece HDMI to DVI cable.
@@ -43,11 +45,29 @@ Ideally you want to use a power supply that you know to be safe and provide ampl
 ![power](images/Power_Supply.png)
 
 ### Mobile device charger
-Many mobile devices are powered using a 5V micro-USB charger. These can often be used to power the Raspberry Pi, although it is worth checking that they provide sufficient current (1.2 - 2.5A)
+Many mobile devices are powered using a 5V micro-USB charger. These can often be used to power the Raspberry Pi, although it is worth checking that they provide sufficient voltage and current (5V / 1.2 - 2.5A)
+![phone charger](images/phone-charger.jpg)
 
-### 
+### Micro-USB cable connected to ?
+There are any devices that are capable of providing power over USB. Many modern wall outlets have USB ports for instance, as well as USB Hubs, Computers and battery packs. If you have a micro-USB cable, then you could try to power your Raspberry Pi off of any powered USB port.
+![battery pack](images/usb-power-pack.png)
 
+## Keyboard and Mouse
 
+### Wired
+Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional set up, simply plug them into the Raspberry Pi and they should be recognised when it starts up.
+
+![keyboard-mouse](images/keyboard-mouse.png)
+
+### BlueTooth Keyboard and Mouse
+
+BlueTooth Keyboards and Mice can work with the Raspberry Pi, but you success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
+
+![bt keyboard-mouse](images/bt-keyboard-mouse.png)
+
+## SD Cards
+
+The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8Gb (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy are official SD cards, if you are unsure, from here and here.
 
 
 ## Plugging in your Raspberry Pi
