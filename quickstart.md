@@ -30,7 +30,25 @@ Some older monitors have a DVI port. These work well with the Raspberry Pi, alth
 ![hdmi-dvi](images/hdmi-dvi.jpg)
 
 ### VGA
-Some old monitors have a VGA port. These can be trickier to use, and 
+Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA convertor, that can change a digital video to analogue video. A simple port adaptor will not work.
+
+![hdmi-vga](images/hdmi-vga.jpg)
+
+## Power Supplies
+
+If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using with a current as little as 1.2 A
+
+### The Official Raspberry Pi Power Supply
+Ideally you want to use a power supply that you know to be safe and provide ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply here and here.
+![power](images/Power_Supply.png)
+
+### Mobile device charger
+Many mobile devices are powered using a 5V micro-USB charger. These can often be used to power the Raspberry Pi, although it is worth checking that they provide sufficient current (1.2 - 2.5A)
+
+### 
+
+
+
 
 ## Plugging in your Raspberry Pi
 
