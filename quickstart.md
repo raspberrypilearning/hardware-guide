@@ -7,13 +7,13 @@ Got a Raspberry Pi? Great: let's get started by making sure you have all the cab
 Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you need:
 - A monitor with the correct cable and adaptor.
 - A micro-USB Power Supply
-- A wired keyboard and mouse, or a wireless keyboard and mouse with a bluetooth adaptor
+- A wired keyboard and mouse, or a wireless keyboard and mouse with a Bluetooth adaptor
 - A micro SD card
 - A Raspberry Pi
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a preinstalled SD card, then details on how to install an operating to an SD card, follow the [software setup guide](). 
+To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, then details on how to install an operating to an SD card, follow the [software setup guide](). 
 
 ## Monitors
 
@@ -32,7 +32,7 @@ Some older monitors have a DVI port. These work well with the Raspberry Pi, alth
 ![hdmi-dvi](images/hdmi-dvi.jpg)
 
 ### VGA
-Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA convertor, that can change a digital video to analogue video. A simple port adaptor will not work.
+Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA converter, that can change a digital video to analogue video. A simple port adaptor will not work.
 
 ![hdmi-vga](images/hdmi-vga.jpg)
 
@@ -59,15 +59,15 @@ Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plu
 
 ![keyboard-mouse](images/keyboard-mouse.png)
 
-### BlueTooth Keyboard and Mouse
+### Bluetooth Keyboard and Mouse
 
-BlueTooth Keyboards and Mice can work with the Raspberry Pi, but you success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
+Bluetooth Keyboards and Mice can work with the Raspberry Pi, but you success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
 
 ![bt keyboard-mouse](images/bt-keyboard-mouse.png)
 
 ## SD Cards
 
-The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8Gb (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy are official SD cards, if you are unsure, from here and here.
+The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8GB (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy are official SD cards, if you are unsure, from here and here.
 
 ![noobs-card](images/noobs-card.png)
 
