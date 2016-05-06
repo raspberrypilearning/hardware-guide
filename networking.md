@@ -18,4 +18,4 @@ If you have a Raspberry Pi 3, then there is built in WiFi. If you are using an e
 
 Some WiFi dongles, when used with the Raspberry Pi, are simple plug 'n' play devices. Others require specific drivers and may not be compatible with the Raspberry Pi. Make sure you read the device manufacturers documentation before making a purchase.
 
-You can buy the official Raspberry Pi WiFi Dongle [here]() and [here]()
+You can buy the official Raspberry Pi WiFi Dongle [here](https://thepihut.com/collections/raspberry-pi-wifi/products/official-raspberry-pi-wifi-adapter) and [here](http://cpc.farnell.com/element14/wipi/dongle-wifi-usb-for-raspberry/dp/SC12761)

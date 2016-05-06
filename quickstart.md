@@ -13,7 +13,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, then details on how to install an operating to an SD card, follow the [software setup guide](). 
+To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, then details on how to install an operating to an SD card, follow the [software setup guide](https://www.raspberrypi.org/help/help-software-guide). 
 
 ## Monitors
 

@@ -15,7 +15,7 @@ There are lots of diffent types of storage device that you can plug directly int
 ![](images/flash_drive.png)
 
 ## External Hard Drives
-There are also external hard drives that you can purchase that can be connected via USB cable to transfer data. You have to be a little careful here. Some external hard drives are independently powered, and will work without problems. Some draw their power via the USB port, and might need more current that the Raspberry Pi can supply. Read the manufacturer's documentation to ensure any hard drive you are using will work with the Raspberry Pi. Some external hard drives have been designed to specifically work with the Raspberry Pi, such as the [PiDrive](http://wdlabs.wd.com/products/wd-pidrive-314gb/)
+There are also external hard drives that you can purchase that can be connected via USB cable to transfer data. You have to be a little careful here. Some external hard drives are independently powered, and will work without problems. Some draw their power via the USB port, and might need more current that the Raspberry Pi can supply. Read the manufacturer's documentation to ensure any hard drive you are using will work with the Raspberry Pi. Some external hard drives have been designed to specifically work with the Raspberry Pi, such as the 
 
 ![](images/Pi314.jpg)
 
