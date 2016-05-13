@@ -8,7 +8,7 @@ The Raspberry Pi has an Ethernet port, alongside the USB ports. If your Raspberr
 
 ![](images/ethernet-cable.png)
 
-Once you have plugged the Ethernet cable into the Raspberry Pi and the other end into an access point, your Raspberry Pi will automatically connect to the network
+Once you have plugged the Ethernet cable into the Raspberry Pi and the other end into an access point, your Raspberry Pi will automatically connect to the network.
 
 ## Connecting via WiFi
 
@@ -16,6 +16,6 @@ If you have a Raspberry Pi 3, then there is built in WiFi. If you are using an e
 
 ![](images/WiFi_Dongle.png)
 
-Some WiFi dongles, when used with the Raspberry Pi, are simple plug 'n' play devices. Others require specific drivers and may not be compatible with the Raspberry Pi. Make sure you read the device manufacturers documentation before making a purchase.
+Some WiFi dongles, when used with the Raspberry Pi, are simple [plug 'n' play](https://en.wikipedia.org/wiki/Plug_and_play) devices. Others require specific drivers and may not be compatible with the Raspberry Pi. Make sure you read the device manufacturers documentation before making a purchase.
 
 You can buy the official Raspberry Pi WiFi Dongle [here](https://thepihut.com/collections/raspberry-pi-wifi/products/official-raspberry-pi-wifi-adapter) and [here](http://cpc.farnell.com/element14/wipi/dongle-wifi-usb-for-raspberry/dp/SC12761)
