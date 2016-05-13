@@ -4,7 +4,7 @@
 
 Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you need:
 
-- A monitor with the correct cable and adaptor.
+- A monitor with the correct cable and adaptor
 - A micro-USB Power Supply
 - A wired keyboard and mouse, or a wireless keyboard and mouse with a Bluetooth adaptor
 - A micro SD card
@@ -12,7 +12,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, then details on how to install an operating to an SD card, follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide). 
+To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, details on how to install an operating system on to an SD card can be found in our [software setup guide](https://www.raspberrypi.org/learning/help-software-guide). 
 
 ## Monitors
 
@@ -31,16 +31,16 @@ Some older monitors have a DVI port. These work well with the Raspberry Pi, alth
 ![hdmi-dvi](images/hdmi-dvi.jpg)
 
 ### VGA
-Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA converter, that can change a digital video to analogue video. A simple port adaptor will not work.
+Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA converter, that can change digital video to analogue video. A simple port adaptor will not work.
 
 ![hdmi-vga](images/hdmi-vga.jpg)
 
 ## Power Supplies
 
-If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using with a current as little as 1.2 A
+If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using a current as little as 1.2A.
 
 ### The Official Raspberry Pi Power Supply
-Ideally you want to use a power supply that you know to be safe and provide ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply [here](http://cpc.farnell.com/stontronics/t5875dv/psu-raspberry-pi-5v-2-5a-multi/dp/SC14025) and [here](http://uk.rs-online.com/web/p/plug-in-power-supply/9098126/).
+Ideally you want to use a power supply that you know to be safe and that provides ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply from [Farnell](http://cpc.farnell.com/stontronics/t5875dv/psu-raspberry-pi-5v-2-5a-multi/dp/SC14025) or [RS](http://uk.rs-online.com/web/p/plug-in-power-supply/9098126/).
 
 ![power](images/Power_Supply.png)
 
@@ -50,26 +50,26 @@ Many mobile devices are powered using a 5V micro-USB charger. These can often be
 ![phone charger](images/phone-charger.jpg)
 
 ### Micro-USB cable connected to ?
-There are any devices that are capable of providing power over USB. Many modern wall outlets have USB ports for instance, as well as USB Hubs, Computers and battery packs. If you have a micro-USB cable, then you could try to power your Raspberry Pi off of any powered USB port.
+There are many devices that are capable of providing power over USB. Many modern wall outlets have USB ports for instance, as well as USB Hubs, Computers and battery packs. If you have a micro-USB cable, then you could try to power your Raspberry Pi using any powered USB port.
 
 ![battery pack](images/usb-power-pack.png)
 
 ## Keyboard and Mouse
 
 ### Wired Keyboard and Mouse
-Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional set up, simply plug them into the Raspberry Pi and they should be recognised when it starts up.
+Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional set up. Simply plug them into the Raspberry Pi and they should be recognised when it starts up.
 
 ![keyboard-mouse](images/keyboard-mouse.png)
 
 ### Bluetooth Keyboard and Mouse
 
-Bluetooth Keyboards and Mice can work with the Raspberry Pi, but you success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
+Bluetooth Keyboards and Mice can work with the Raspberry Pi, but your success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
 
 ![bt keyboard-mouse](images/bt-keyboard-mouse.png)
 
 ## SD Cards
 
-The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8GB (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy our official SD cards, if you are unsure, from [here](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) and [here](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work however, although you will need to follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide) to learn how to load an operating system onto the card.
+The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8GB (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy our official SD cards, if you are unsure, from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work however, although you will need to follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide) to learn how to load an operating system on to the card.
 
 ![noobs-card](images/noobs-card.png)
 
@@ -79,7 +79,7 @@ The latest version of Raspbian (the default operating system recommended for the
 1. Next, plug in your USB keyboard and mouse into the USB ports on the Raspberry Pi.
 1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc).
 1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
-1. If you intend to connect your Raspberry Pi to the internet, plug an Ethernet cable into the Ethernet port, or connect a WiFi dongle to one of the USB ports (unless you have a Raspberry Pi 3)
+1. If you intend to connect your Raspberry Pi to the internet, plug an Ethernet cable into the Ethernet port, or connect a WiFi dongle to one of the USB ports (unless you have a Raspberry Pi 3).
 1. When you are happy that you have plugged all the cables and SD card in correctly, connect the micro USB power supply. This action will turn on and boot your Raspberry Pi.
 
   ![Plugging in](images/plug-in.gif)
