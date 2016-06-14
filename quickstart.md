@@ -57,26 +57,26 @@ There are many devices which are capable of providing power over USB. Some moder
 ## Keyboard and Mouse
 
 ### Wired Keyboard and Mouse
-Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional set up. Simply plug them into the Raspberry Pi and they should be recognised when it starts up.
+Any standard USB Keyboard and Mouse can be used with the Raspberry Pi. These plug and play devices will work without any additional driver. Simply plug them into the Raspberry Pi and they should be recognised when it starts up.
 
 ![keyboard-mouse](images/keyboard-mouse.png)
 
 ### Bluetooth Keyboard and Mouse
 
-Bluetooth Keyboards and Mice can work with the Raspberry Pi, but your success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturers documentation to see whether a device is compatible with the Raspberry Pi.
+Bluetooth Keyboards and Mice can work with the Raspberry Pi, but your success rates will vary depending on the model and manufacturer. It is best that you consult the manufacturer's documentation to see whether or not a device is compatible with the Raspberry Pi.
 
 ![bt keyboard-mouse](images/bt-keyboard-mouse.png)
 
 ## SD Cards
 
-The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8GB (or larger) micro-SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy our official SD cards, if you are unsure, from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work however, although you will need to follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide) to learn how to load an operating system on to the card.
+The latest version of Raspbian (the default operating system recommended for the Raspberry Pi) requires an 8GB (or larger) micro SD Card. Not all SD cards are made equal, and some have higher failure rates than others. You can always buy our official SD cards, if you are unsure, from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work, although you will need to follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide) to learn how to load an operating system onto the card.
 
 ![noobs-card](images/noobs-card.png)
 
 ## Plugging in your Raspberry Pi
 
-1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
-1. Next, plug in your USB keyboard and mouse into the USB ports on the Raspberry Pi.
+1. Begin by placing your SD card into the SD card slot on the Raspberry Pi. It will only fit one way.
+1. Next, plug your keyboard and mouse into the USB ports on the Raspberry Pi.
 1. Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc).
 1. Connect your HDMI cable from your Raspberry Pi to your monitor or TV.
 1. If you intend to connect your Raspberry Pi to the internet, plug an Ethernet cable into the Ethernet port, or connect a WiFi dongle to one of the USB ports (unless you have a Raspberry Pi 3).
