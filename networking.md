@@ -1,10 +1,10 @@
 # Raspberry Pi Networking
 
-You'll probably want to connect your Raspberry Pi to your local network or the Internet. Here you have a couple of options.
+You'll probably want to connect your Raspberry Pi to your local network or the internet. Here you have a couple of options.
 
 ## Connecting via Ethernet
 
-The Raspberry Pi has an Ethernet port, alongside the USB ports. If your Raspberry Pi is situated close to a router, access point or switch, you can connect to a network using an Ethernet cable.
+The Raspberry Pi has an Ethernet port, alongside the USB ports. If your Raspberry Pi is situated close to a router, access point, or switch, you can connect to a network using an Ethernet cable.
 
 ![](images/ethernet-cable.png)
 
@@ -16,6 +16,6 @@ If you have a Raspberry Pi 3, then there is built-in WiFi. If you are using an e
 
 ![](images/WiFi_Dongle.png)
 
-Some WiFi dongles, when used with the Raspberry Pi, are simple [plug 'n' play](https://en.wikipedia.org/wiki/Plug_and_play) devices. Others require specific drivers and may not be compatible with the Raspberry Pi. Make sure you read the device manufacturer's documentation before making a purchase.
+Some WiFi dongles, when used with the Raspberry Pi, are simple [plug and play](https://en.wikipedia.org/wiki/Plug_and_play) devices. Others require specific drivers, and may not be compatible with the Raspberry Pi. Make sure you read the device manufacturer's documentation before making a purchase.
 
 You can buy the official Raspberry Pi WiFi dongle from [The Pi Hut](https://thepihut.com/collections/raspberry-pi-wifi/products/official-raspberry-pi-wifi-adapter) or [Farnell](http://cpc.farnell.com/element14/wipi/dongle-wifi-usb-for-raspberry/dp/SC12761).
