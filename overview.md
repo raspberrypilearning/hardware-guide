@@ -1,4 +1,4 @@
-Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories and show you how to plug them all in.
+Got a Raspberry Pi? Great! Let's get started by making sure you have all the cables and accessories you will need, and showing you how to plug them all in.
 
 - [Quick start](quickstart.md)
 - [Networking your Raspberry Pi](networking.md)
