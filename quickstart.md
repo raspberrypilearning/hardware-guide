@@ -37,7 +37,7 @@ Some old monitors have a VGA port. These can be trickier to use as you need an H
 
 ## Power Supplies
 
-If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using a current as little as 1.2A.
+If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using a current as low as 1.2A.
 
 ### The Official Raspberry Pi Power Supply
 Ideally you want to use a power supply that you know to be safe and that provides ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply from [Farnell](http://cpc.farnell.com/stontronics/t5875dv/psu-raspberry-pi-5v-2-5a-multi/dp/SC14025) or [RS](http://uk.rs-online.com/web/p/plug-in-power-supply/9098126/).
