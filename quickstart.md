@@ -40,7 +40,7 @@ Some old monitors have a VGA port. These can be trickier to use as you need an H
 If you are using a Raspberry Pi 3, then it is recommended that you use a 5V, 2.5A power supply. Earlier models can be powered using a current as low as 1.2A.
 
 ### The Official Raspberry Pi Power Supply
-Ideally you want to use a power supply that you know to be safe and that provides ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply from [Farnell](http://cpc.farnell.com/stontronics/t5875dv/psu-raspberry-pi-5v-2-5a-multi/dp/SC14025) or [RS](http://uk.rs-online.com/web/p/plug-in-power-supply/9098126/).
+Ideally you want to use a power supply which you know to be safe and which provides ample power to the Raspberry Pi. You can obtain an official Raspberry Pi power supply from [Farnell](http://cpc.farnell.com/stontronics/t5875dv/psu-raspberry-pi-5v-2-5a-multi/dp/SC14025) or [RS](http://uk.rs-online.com/web/p/plug-in-power-supply/9098126/).
 
 ![power](images/Power_Supply.png)
 
@@ -49,8 +49,8 @@ Many mobile devices are powered using a 5V micro-USB charger. These can often be
 
 ![phone charger](images/phone-charger.jpg)
 
-### Micro-USB cable connected to ?
-There are many devices that are capable of providing power over USB. Many modern wall outlets have USB ports for instance, as well as USB Hubs, Computers and battery packs. If you have a micro-USB cable, then you could try to power your Raspberry Pi using any powered USB port.
+### Micro-USB cable connected to...?
+There are many devices which are capable of providing power over USB. Some modern wall socket have USB ports for instance. You can also connect to USB Hubs, computers, and battery packs. If you have a micro-USB cable, then you could try to power your Raspberry Pi using any powered USB port.
 
 ![battery pack](images/usb-power-pack.png)
 
