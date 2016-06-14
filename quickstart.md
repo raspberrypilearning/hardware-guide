@@ -5,7 +5,7 @@
 Before you plug anything into your Raspberry Pi, make sure that you have all the equipment you need:
 
 - A monitor with the correct cable and adaptor
-- A micro-USB Power Supply
+- A micro USB power supply
 - A wired keyboard and mouse, or a wireless keyboard and mouse with a Bluetooth adaptor
 - A micro SD card
 - A Raspberry Pi
@@ -31,7 +31,7 @@ Some older monitors have a DVI port. These work well with the Raspberry Pi, alth
 ![hdmi-dvi](images/hdmi-dvi.jpg)
 
 ### VGA
-Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA converter, that can change digital video to analogue video. A simple port adaptor will not work.
+Some old monitors have a VGA port. These can be trickier to use as you need an HDMI to VGA converter, which can change digital video to analogue video. A simple port adaptor will not work.
 
 ![hdmi-vga](images/hdmi-vga.jpg)
 
