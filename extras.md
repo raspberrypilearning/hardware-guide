@@ -1,4 +1,4 @@
-Not essential but helpful to have:
+Not essential, but helpful to have:
 
 - Headphones or speakers
 - Internet connection
