@@ -8,4 +8,4 @@ The Raspberry Pi comes equipped with a 3.5mm audio port. This will allow you to 
 
 ## Bluetooth Speakers
 
-With either the Raspberry Pi 3, or a Bluetooth dongle, you can connect to Bluetooth speakers or headphones. Your success rates may vary depending on the dongle/speakers you are using, so ensure you read the manufacturer's documentation.
+With either the Raspberry Pi 3, or a Bluetooth dongle, you can connect to Bluetooth speakers or headphones. Your success rates may vary depending on the dongle and/or speakers you are using, so ensure that you read the manufacturer's documentation.
