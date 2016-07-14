@@ -1,6 +1,6 @@
 # Raspberry Pi Networking
 
-You'll probably want to connect your Raspberry Pi to your local network or the internet. Here you have a couple of options.
+You'll probably want to connect your Raspberry Pi to your local network or the internet. You can use any of the following options to do this:
 
 ## Connecting via Ethernet
 

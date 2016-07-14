@@ -1,4 +1,4 @@
-- [Quick start](quickstart.md)
-- [Networking your Raspberry Pi](networking.md)
-- [Adding extra storage](storage.md)
-- [Adding audio output](audio.md)
+- [Setup your Raspberry Pi for the first time](quickstart.md)
+- [Connect your Raspberry Pi to the internet](networking.md)
+- [Add extra storage to save your files](storage.md)
+- [Connect headphones or speakers for audio output](audio.md)
