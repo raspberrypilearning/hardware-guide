@@ -78,5 +78,5 @@ The latest version of Raspbian, the default operating system recommended for the
 
 ![noobs-card](images/noobs-card.png)
 
-# What's next?
+## What's next?
 - Now that you have checked you have all the right equipment to work with your Raspberry Pi, it is time to plug them all together. Follow the steps in the [quick start hadrware guide](quickstart.md).
