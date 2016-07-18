@@ -20,3 +20,7 @@ There are lots of different types of storage device which you can plug directly 
 
 ![](images/Pi314.jpg)
 
+## What next?
+- Learn how to [connect your Raspberry Pi to the internet](networking.md)
+- Learn how to [add extra storage to save your files](storage.md)
+- Find out how you can [connect headphones or speakers for audio output](audio.md)
