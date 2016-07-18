@@ -13,4 +13,4 @@
 
 ## What's next?
 
-- 
+- Learn how to [connect your Raspberry Pi to the internet](networking.md)
