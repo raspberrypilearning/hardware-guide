@@ -14,3 +14,5 @@
 ## What's next?
 
 - Learn how to [connect your Raspberry Pi to the internet](networking.md)
+- or how to [add extra storage to save your files](storage.md)
+- Find out how you can [connect headphones or speakers for audio output](audio.md)
