@@ -26,13 +26,13 @@ Most modern television sets and monitors have an HDMI port, and are the easiest 
 
 ### DVI
 
-Some older monitors have a DVI port. These work well with the Raspberry Pi, although you will need an HDMI-to-DVI adapter to attach to an HDMI cable, or a one-piece HDMI-to-DVI cable.
+Some older monitors have a DVI port. These work well with the Raspberry Pi, although you'll need an HDMI-to-DVI adapter to attach to an HDMI cable, or a one-piece HDMI-to-DVI cable.
 
 ![hdmi-dvi](images/hdmi-dvi.jpg)
 
 ### VGA
 
-Some old monitors have a VGA port. These can be trickier to use as you need an HDMI-t- VGA converter, which can change digital video to analogue video. A simple port adapter will not work.
+Some old monitors have a VGA port. These can be trickier to use as you'll need an HDMI-to-VGA converter, which can change digital video to analogue video. A simple port adapter won't work.
 
 ![hdmi-vga](images/hdmi-vga.jpg)
 
@@ -78,5 +78,5 @@ The latest version of Raspbian, the default operating system recommended for the
 
 ![noobs-card](images/noobs-card.png)
 
-## What's next?
-- Now that you have checked you have all the right equipment to work with your Raspberry Pi, it is time to plug them all together. Follow the steps in the [quick start hadrware guide](quickstart.md).
+## What next?
+- Now that you've checked you have all the right equipment to work with your Raspberry Pi, it's time to plug them all together. Follow the steps in the [quickstart hardware guide](quickstart.md).
