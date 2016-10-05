@@ -74,7 +74,7 @@ Bluetooth keyboards and mice can work with the Raspberry Pi, but your success ra
 
 ## SD cards
 
-The latest version of Raspbian, the default operating system recommended for the Raspberry Pi, requires an 8GB (or larger) micro SD card. Not all SD cards are made equal, and some have higher failure rates than others. If you're unsure, you can always buy our official SD cards from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work, although you'll need to follow the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide) to learn how to load an operating system onto the card.
+The latest version of Raspbian, the default operating system recommended for the Raspberry Pi, requires an 8GB (or larger) micro SD card. Not all SD cards are made equal, and some have higher failure rates than others. If you're unsure, you can always buy our official SD cards from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work, although you'll need to follow the [software setup guide](https://www.raspberrypi.org/learning/software-guide) to learn how to load an operating system onto the card.
 
 ![noobs-card](images/noobs-card.png)
 
