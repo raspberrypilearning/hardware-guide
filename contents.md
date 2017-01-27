@@ -1,5 +1,5 @@
 - [Check you have the right equipment to start](equipment.md)
-- [Setup your Raspberry Pi for the first time](quickstart.md)
+- [Set up your Raspberry Pi for the first time](quickstart.md)
 - [Connect your Raspberry Pi to the internet](networking.md)
 - [Add extra storage to save your files](storage.md)
 - [Connect headphones or speakers for audio output](audio.md)
