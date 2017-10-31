@@ -1,4 +1,4 @@
-- [Check you have the right equipment to start](equipment.md)
+- [Check if you have the right equipment to start](equipment.md)
 - [Set up your Raspberry Pi for the first time](quickstart.md)
 - [Connect your Raspberry Pi to the internet](networking.md)
 - [Add extra storage to save your files](storage.md)
