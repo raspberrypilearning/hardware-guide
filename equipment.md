@@ -10,7 +10,7 @@ Before you plug anything into your Raspberry Pi, make sure that you have all the
 
 ![](images/all-the-things.png)
 
-To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, details on how to install an operating system onto an SD card can be found in our [software setup guide](https://www.raspberrypi.org/learning/software-guide). 
+To get started with Raspberry Pi, you also need an operating system. If you haven't purchased a pre-installed SD card, details on how to install an operating system onto an SD card can be found in our [software setup guide](https://www.raspberrypi.org/learning/software-guide).
 
 ## Monitors
 
@@ -74,7 +74,7 @@ Bluetooth keyboards and mice can work with the Raspberry Pi, but your success ra
 
 ## SD cards
 
-The latest version of Raspbian, the default operating system recommended for the Raspberry Pi, requires an 8GB (or larger) micro SD card. Not all SD cards are made equal, and some have higher failure rates than others. If you're unsure, you can always buy our official SD cards from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](https://cpc.farnell.com/sandisk/sdsdqu-008g-bmut/microsd-card-8gb-class-10-noobs/dp/SC13797?COM=main-search%20CMPNULL). Any 8GB SD card will work, although you'll need to follow the [software setup guide](https://www.raspberrypi.org/learning/software-guide) to learn how to load an operating system onto the card.
+The latest version of Raspbian, the default operating system recommended for the Raspberry Pi, requires an 8GB (or larger) micro SD card. Not all SD cards are made equal, and some have higher failure rates than others. If you're unsure, you can always buy our official SD cards from [RS](http://uk.rs-online.com/web/p/secure-digital-cards/9176317/) or [Farnell](http://cpc.farnell.com/transcend/tsraspi10-16g/memory-microsd-16gb-noobs/dp/SC14027). Any 8GB SD card will work, although you'll need to follow the [software setup guide](https://www.raspberrypi.org/learning/software-guide) to learn how to load an operating system onto the card.
 
 ![noobs-card](images/noobs-card.png)
 
